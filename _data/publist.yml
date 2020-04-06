@@ -1,0 +1,31 @@
+- title: "Quantum probabilistic associative memory architecture"
+  image: qpam.jpg
+  description: We present a quantum probabilistic associative memory using the inverse of quantum Fourier transform and Grover’s algorithm to recover existing or similar patterns in the memory.
+  authors: de Paula Neto, Fernando M.; da Silva, Adenilton J. ; de Oliveira, Wilson R. ; Ludermir, Teresa B.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231219305041
+    display:  Neurocomputing 352, 2019
+  highlight: 1
+  date: 2019-07-25
+  news2:
+
+- title: "Title"
+  image: TBG_ARPES.png
+  description: Description.
+  authors: Authors
+  link:
+    url: https://arxiv.org/
+    display:  arXiv:123
+  highlight: 1
+  date: 2019-07-25
+  news2:
+
+- title: "Title"
+  image: TBG_ARPES.png
+  description: Description.
+  authors: Authors
+  link:
+    url: https://arxiv.org/
+    display:  arXiv:123
+  highlight: 1
+  news2:

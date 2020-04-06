@@ -1,0 +1,19 @@
+- name: Adenilton J. da Silva
+  photo: ajsilva.jpg
+  info: Adjunct Professor, started March 2019
+  email: ajsilva@cin.ufpe.br
+  number_educ: 1
+  education1: Doctor in Computer Science, <a href="http://www.cin.ufpe.br/">Universidade Federal de Pernambuco  </a>
+  education2:
+  education3:
+  education4:
+  education5: 
+
+- name: Name
+  photo: bio-photo.jpg
+  info: Position, started Month year
+  email: email
+  number_educ: 3
+  education1: Postdoc, University
+  education2: Ph.D. title, University
+  education3: B.S. University
