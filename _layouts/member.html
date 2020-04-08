@@ -1,16 +1,30 @@
 ---
 layout: default
 ---
+<html>
 
+{% include head.html %}
+
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
+<body>
+{% include header.html %}
+
+
+<div id="team" class="col-sm-12">
 {% assign member = page %}
 
 <div class="bigspacer"></div>
 
 <div class="row">
     <div class="col-md-3">
-        <div class="col-sm-6 clearfix">
+        <div>
             {% if member.photo %}
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="75%"  />
             {% endif %}
         </div>
     </div>
@@ -136,7 +150,7 @@ layout: default
                     {% if paper.embargo %}
                     <p><i class="far fa-file-alt fa-fw" aria-hidden="true"></i> {{ paper.title }}
                     {% else %}
-                    <p><a href="{{ paper.url }}" class="off"><i class="far fa-file-alt fa-fw" aria-hidden="true"></i> {{ paper.title }}</a>
+                    <p>{{ paper.title }} <a href="{{ paper.url }}" class="off"><i class="far fa-file-alt fa-fw" aria-hidden="true"></i> {{ paper.journal }} {{ paper.year }}</a>
                     {% endif %}
                 {% endif %}
             {% endfor %}
@@ -162,3 +176,6 @@ layout: default
     </div>
     <div class="col-md-1"></div>
 </div>
+</div>
+</body>
+</html>
