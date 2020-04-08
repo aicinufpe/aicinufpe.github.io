@@ -1,4 +1,6 @@
 ---
+layout: member
+handle: ajsilva
 title: Adenilton J. da Silva
 position: Adjunct Professor
 photo: ajsilva.jpg

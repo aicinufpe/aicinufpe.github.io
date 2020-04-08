@@ -45,7 +45,8 @@ kramdown:
 
 collections:
   staff_members:
-    sort_by: title
     output: true
+    sort_by: title
+    
   publications:
     output: true
