@@ -136,17 +136,17 @@ img {
         {% assign searchstring = lastname | append: ' ' | append: firstinitial %}
 
         {% for paper in site.publications %}
-            {% if paper.authors contains searchstring %}
+            {% if paper.member_handle contains member.handle %}
                 {% assign papersq = true %}
             {% endif %}
         {% endfor %}
 
         {% if papersq == true %}
             <div class="bigspacer"></div>
-            <div class="head">Papers</div>
+            <div class="head"><b>Publications</b></div>
             <div class="spacer"></div>
-            {% for paper in site.publications %}
-                {% if paper.authors contains searchstring %}
+            {% for paper in site.publications reversed%}
+                {% if paper.member_handle contains member.handle %}
                     {% if paper.embargo %}
                     <p><i class="far fa-file-alt fa-fw" aria-hidden="true"></i> {{ paper.title }}
                     {% else %}

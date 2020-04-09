@@ -126,7 +126,7 @@ with gratitude.
 			{% endif %}
 			{% if page.altmetric_id or page.doi %}
 			<div class="smallhead subtle">
-				Altmetrics
+
 			</div>
 			<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
             {% if page.altmetric_id %}
@@ -152,11 +152,11 @@ with gratitude.
 		</div>
 	</div>
 	{% else %}
-	{% if page.bibtex %}
 	<div class="col-md-8">
 		<div class="post">
 			{{ content }}
 		</div>
+		{% if page.bibtex %}
         <div class="post">
             <h1 id="bibte">BibTeX</h1>
             <pre> {{ page.bibtex }} </pre>

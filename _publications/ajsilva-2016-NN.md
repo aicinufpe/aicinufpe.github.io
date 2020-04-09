@@ -1,22 +1,20 @@
 ---
 layout: paper
 title: "Quantum perceptron over a field and neural network architecture selection in a quantum computer"
-description: We propose a quantum neural and a quantum learning algorithm that optimizes the neural network weights and architectures.
+date: 2016-04-01
+member_handle: [tbl, ajsilva]
 year: 2016
-shortref: "da Silva, A. J. et al. <i></i> 2016"
-nickname:
 journal: "Neural Networks"
 volume: 76
 issue:
 pages: 55-64
 authors: "da Silva AJ, Ludermir TB, de Oliveira WR"
-member_handle: [wro, ajsilva]
+doi: "10.1016/j.neunet.2016.01.002"
 image: ajsilva-2016-NN.png
+description: We propose a quantum neural and a quantum learning algorithm that optimizes the neural network weights and architectures.
 arxiv: "1602.00709 [quant-ph]"
 eprint: https://arxiv.org/abs/1602.00709  
 github:
-doi: "10.1016/j.neunet.2016.01.002"
-figshare:
 category: paper
 published: true
 embargo: false

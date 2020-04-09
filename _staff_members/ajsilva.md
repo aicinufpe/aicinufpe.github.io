@@ -6,8 +6,6 @@ position: Adjunct Professor
 photo: ajsilva.jpg
 education: Doutor em Ciência da Computação
 educ_instituition: Universidade Federal de Pernambuco
-nickname: Adenilton
-handle: ajsilva
 email: ajsilva@cin.ufpe.br
 github:  adjs
 scholar: https://scholar.google.com.br/citations?user=dsUDyCMAAAAJ&hl=en&oi=ao
