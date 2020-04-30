@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Dynamic time series smoothing for symbolic interval data applied to neuroscience"
-date: May 2020
+date: 2020-05-01
 member_handle: [rmcrs]
 year: 2020
 journal: "Information Sciences"
@@ -9,6 +9,7 @@ volume: 517
 issue:
 pages: 415-426
 authors: "Diego C.Nascimento, Bruno Pimentel, Renata Souza, João P. Leite, Dylan J.Edwards, Taiza E.G.Santos, FranciscoLouzadaa"
+link: https://www.sciencedirect.com/science/article/pii/S0020025519311375
 doi: "10.1016/j.ins.2019.12.026"
 image:
 description: This work aimed to appraise a multivariate time series, high-dimensionality data-set, pre- sented as intervals using a Symbolic Data Analysis (SDA) approach. .

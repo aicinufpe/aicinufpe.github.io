@@ -9,6 +9,7 @@ volume: 76
 issue:
 pages: 55-64
 authors: "da Silva AJ, Ludermir TB, de Oliveira WR"
+link: https://www.sciencedirect.com/science/article/abs/pii/S0893608016000034
 doi: "10.1016/j.neunet.2016.01.002"
 image: ajsilva-2016-NN.png
 description: We propose a quantum neural and a quantum learning algorithm that optimizes the neural network weights and architectures.

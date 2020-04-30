@@ -9,6 +9,7 @@ volume: 79
 issue:
 pages: 370-386
 authors: "Francisco de A.T. de Carvalho, Eduardo C. Simões, Lucas V.C. Santana, Marcelo R.P. Ferreira"
+link: https://www.sciencedirect.com/science/article/abs/pii/S0031320318300712
 doi: "10.1016/j.patcog.2018.02.018"
 image:
 description: We propose a Gaussian kernel c-means hard clustering algorithms with automated computation of the width hyper-parameters.
