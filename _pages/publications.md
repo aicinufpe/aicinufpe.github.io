@@ -56,7 +56,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Selected publications
 
 {% for publi in site.publications reversed %}
 
