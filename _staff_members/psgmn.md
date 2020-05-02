@@ -3,7 +3,7 @@ layout: member
 handle: psgmn
 title: Paulo Salgado Gomes de Mattos Neto
 position: Adjunct Professor
-photo: login.jpg
+photo: psgmn.jpg
 education: Doutor em Ciência da Computação
 educ_instituition: Universidade Federal de Pernambuco
 email: psgmn@cin.ufpe.br
