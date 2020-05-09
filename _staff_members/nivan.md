@@ -6,6 +6,7 @@ position: Adjunct Professor
 photo: nivan.jpg
 education: PhD. in Computer Science
 educ_instituition: New York University
+website: www.cin.ufpe.br/~nivan
 email: nivan@cin.ufpe.br
 github:  nivan
 scholar: https://scholar.google.com.br/citations?user=aXnmMnkAAAAJ&hl=pt-BR&oi=ao
