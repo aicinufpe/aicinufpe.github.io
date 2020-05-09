@@ -4,6 +4,7 @@ title: "Real-Time Exploration of Large Spatiotemporal Datasets based on Order St
 date: 2019-05-06
 member_handle: [nivan]
 year: 2019
+link: https://ieeexplore.ieee.org/document/8706590
 journal: "IEEE Transactions on Visualization and Computer Graphics"
 volume:
 issue:
